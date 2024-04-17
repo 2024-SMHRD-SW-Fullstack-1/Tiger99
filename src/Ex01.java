@@ -13,9 +13,8 @@ public class Ex01 {
         System.out.println("merge check");
 
 		
-		
-
-		
+        
+		System.out.println("branch 팀원2커밋 ");
 		
 		
 	}
