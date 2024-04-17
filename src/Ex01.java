@@ -7,6 +7,8 @@ public class Ex01 {
 		System.out.println("팀원1 어려워요");
 		System.out.println("완료했습니다");
 		
+		System.out.println("나만의 작업 커밋");
+				
 		
 		
 		
